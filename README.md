@@ -13,11 +13,11 @@ This repository demonstrates the use of standard controllers in ASP.NET web appl
 
 ## Introduction
 
-StandardControl is a sample project designed to showcase the implementation and usage of standard controllers in ASP.NET web applications. This project serves as a reference for developers looking to understand how to structure and manage controllers in an ASP.NET environment.
+StandardControl is a sample project designed to showcase the implementation and usage of standard controls in ASP.NET web applications. This project serves as a reference for developers looking to understand how to structure and manage controls in an ASP.NET environment.
 
 ## Features
 
-- Demonstrates the setup of standard controllers
+- Demonstrates the setup of standard controls
 - Includes sample views and actions
 - Provides a template for new ASP.NET projects
 - Easy to extend and modify
