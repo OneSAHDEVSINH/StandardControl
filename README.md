@@ -56,8 +56,8 @@ To run this project locally, follow these steps:
 
 To use the StandardControl project as a reference or starting point:
 
-1. Explore the `Controllers` folder to see examples of standard ASP.NET controllers.
-2. Check the `Views` folder to understand how views are structured and linked to controllers.
+1. Explore the `root` folder to see examples of standard ASP.NET controllers.
+2. Check the `root` folder to understand how views are structured and linked to controllers.
 3. Modify or extend the controllers and views as needed for your own project requirements.
 
 ## Contributing
